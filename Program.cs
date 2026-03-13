@@ -19,6 +19,18 @@ builder.Services.AddDbContext<CursosOnlineContext>(options => options.UseSqlServ
 builder.Services.AddScoped<IInstrutorRepository, InstrutorRepository>();
 builder.Services.AddScoped<InstrutorService>();
 
+// aluno
+builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
+builder.Services.AddScoped<AlunoService>();
+
+// curso
+builder.Services.AddScoped<ICursoRepository, CursoRepository>();
+builder.Services.AddScoped<CursoService>();
+
+// matricula
+builder.Services.AddScoped<IMatriculaRepository, MatriculaRepository>();
+builder.Services.AddScoped<MatriculaService>();
+
 
 var app = builder.Build();
 
