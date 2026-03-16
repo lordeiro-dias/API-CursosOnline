@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\applications\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:applications\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\applications\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:applications\\services\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:controllers\\instrutorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\applications\\services\\instrutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:dtos\\cursodto\\lercursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:repositories\\matricularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:repositories\\instrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\interfaces\\iinstrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:interfaces\\iinstrutorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|solutionrelative:repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57BA4EA0-7A48-C0FD-9D7B-6F0C3A34E521}|CursosOnline.csproj|c:\\users\\53278369831\\desktop\\projetos vs\\cursosonline\\applications\\conversoes\\cursoparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,21 +126,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MatriculaController.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Controllers\\MatriculaController.cs",
               "RelativeDocumentMoniker": "Controllers\\MatriculaController.cs",
               "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Controllers\\MatriculaController.cs",
               "RelativeToolTip": "Controllers\\MatriculaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:59:21.144Z",
               "EditorCaption": ""
@@ -153,53 +149,27 @@
               "RelativeDocumentMoniker": "Applications\\Services\\MatriculaService.cs",
               "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Applications\\Services\\MatriculaService.cs",
               "RelativeToolTip": "Applications\\Services\\MatriculaService.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAF0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:48:52.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LerMatriculaDto.cs",
-              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\LerMatriculaDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\MatriculaDto\\LerMatriculaDto.cs",
-              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\LerMatriculaDto.cs",
-              "RelativeToolTip": "DTOs\\MatriculaDto\\LerMatriculaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:46:52.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CriarMatriculaDto.cs",
-              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
-              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
-              "RelativeToolTip": "DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:46:41.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "MatriculaRepository.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\MatriculaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\MatriculaRepository.cs",
               "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\MatriculaRepository.cs",
               "RelativeToolTip": "Repositories\\MatriculaRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T13:40:16.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "LerCursoDto.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\CursoDto\\LerCursoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CursoDto\\LerCursoDto.cs",
@@ -207,12 +177,11 @@
               "RelativeToolTip": "DTOs\\CursoDto\\LerCursoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:05:53.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T13:05:53.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "InstrutorService.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Applications\\Services\\InstrutorService.cs",
               "RelativeDocumentMoniker": "Applications\\Services\\InstrutorService.cs",
@@ -220,12 +189,11 @@
               "RelativeToolTip": "Applications\\Services\\InstrutorService.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAAYwIQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:40:34.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T12:40:34.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "InstrutorController.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Controllers\\InstrutorController.cs",
               "RelativeDocumentMoniker": "Controllers\\InstrutorController.cs",
@@ -233,12 +201,11 @@
               "RelativeToolTip": "Controllers\\InstrutorController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAIwFEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T13:30:05.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T13:30:05.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -251,7 +218,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
+              "Title": "CursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\CursoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CursoRepository.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\CursoRepository.cs",
+              "RelativeToolTip": "Repositories\\CursoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:52:16.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstrutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\InstrutorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InstrutorRepository.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\InstrutorRepository.cs",
+              "RelativeToolTip": "Repositories\\InstrutorRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:32:00.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriarMatriculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "RelativeToolTip": "DTOs\\MatriculaDto\\CriarMatriculaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:46:41.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LerMatriculaDto.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "RelativeToolTip": "DTOs\\MatriculaDto\\LerMatriculaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:46:52.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IMatriculaRepository.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Interfaces\\IMatriculaRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IMatriculaRepository.cs",
@@ -259,12 +276,11 @@
               "RelativeToolTip": "Interfaces\\IMatriculaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:38:38.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T13:38:38.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CursoService.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Applications\\Services\\CursoService.cs",
               "RelativeDocumentMoniker": "Applications\\Services\\CursoService.cs",
@@ -272,12 +288,11 @@
               "RelativeToolTip": "Applications\\Services\\CursoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:08:53.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T13:08:53.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AlunoService.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Applications\\Services\\AlunoService.cs",
               "RelativeDocumentMoniker": "Applications\\Services\\AlunoService.cs",
@@ -285,8 +300,7 @@
               "RelativeToolTip": "Applications\\Services\\AlunoService.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwIwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:14:44.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:14:44.767Z"
             },
             {
               "$type": "Document",
@@ -298,12 +312,11 @@
               "RelativeToolTip": "Controllers\\CursoController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAA6wFAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:27:44.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T13:27:44.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CriarCursoDto.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\DTOs\\CursoDto\\CriarCursoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CursoDto\\CriarCursoDto.cs",
@@ -311,8 +324,7 @@
               "RelativeToolTip": "DTOs\\CursoDto\\CriarCursoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:05:47.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T13:05:47.756Z"
             },
             {
               "$type": "Document",
@@ -324,12 +336,11 @@
               "RelativeToolTip": "Controllers\\AlunoController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:41:37.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:41:37.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AlunoRepository.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\AlunoRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\AlunoRepository.cs",
@@ -337,21 +348,7 @@
               "RelativeToolTip": "Repositories\\AlunoRepository.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:02:36.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InstrutorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\InstrutorRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InstrutorRepository.cs",
-              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\InstrutorRepository.cs",
-              "RelativeToolTip": "Repositories\\InstrutorRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA4wCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:32:00.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:02:36.986Z"
             },
             {
               "$type": "Document",
@@ -363,12 +360,11 @@
               "RelativeToolTip": "DTOs\\AlunoDto\\CriarAlunoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:11:40.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:11:40.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IInstrutorRepository.cs",
               "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Interfaces\\IInstrutorRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IInstrutorRepository.cs",
@@ -376,21 +372,7 @@
               "RelativeToolTip": "Interfaces\\IInstrutorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:30:25.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CursoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\CursoRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CursoRepository.cs",
-              "ToolTip": "C:\\Users\\53278369831\\Desktop\\Projetos VS\\CursosOnline\\Repositories\\CursoRepository.cs",
-              "RelativeToolTip": "Repositories\\CursoRepository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAqwDQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:52:16.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T12:30:25.977Z"
             },
             {
               "$type": "Document",
@@ -402,8 +384,7 @@
               "RelativeToolTip": "DTOs\\AlunoDto\\LerAlunoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:11:48.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:11:48.519Z"
             },
             {
               "$type": "Document",
@@ -415,8 +396,7 @@
               "RelativeToolTip": "Applications\\Conversoes\\CursoParaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T13:12:16.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T13:12:16.223Z"
             },
             {
               "$type": "Document",
@@ -428,8 +408,7 @@
               "RelativeToolTip": "Interfaces\\ICursoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:48:44.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T12:48:44.518Z"
             },
             {
               "$type": "Document",
@@ -441,8 +420,7 @@
               "RelativeToolTip": "Interfaces\\IAlunoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T11:16:58.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-13T11:16:58.695Z"
             },
             {
               "$type": "Document",
@@ -454,8 +432,7 @@
               "RelativeToolTip": "DTOs\\InstrutorDto\\LerInstrutorDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:38:38.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T12:38:38.938Z"
             },
             {
               "$type": "Document",
@@ -467,8 +444,7 @@
               "RelativeToolTip": "DTOs\\InstrutorDto\\CriarInstrutorDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T12:38:02.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T12:38:02.491Z"
             },
             {
               "$type": "Document",

@@ -1,6 +1,7 @@
 ﻿using CursosOnline.Contexts;
 using CursosOnline.Domains;
 using CursosOnline.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace CursosOnline.Repositories
 {
@@ -15,12 +16,16 @@ namespace CursosOnline.Repositories
 
         public List<Matricula> Listar()
         {
-            return _context.Matricula.ToList();
+            List<Matricula> matriculas = _context.Matricula.Include(m => m.Aluno).Include(m => m.Curso).ToList();
+
+            return matriculas;
         }
 
         public Matricula ObterPorId(int id)
         {
-            return _context.Matricula.Find(id);
+            Matricula? matricula = _context.Matricula.Include(m => m.Aluno).Include(m => m.Curso).FirstOrDefault(m => m.MatriculaID == id);
+
+            return matricula;
         }
 
         public void Adicionar(Matricula matricula)
